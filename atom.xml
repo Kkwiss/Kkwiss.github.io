@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-18T07:28:46.538Z</updated>
+  <updated>2021-09-20T13:11:47.515Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>时间锁</title>
+    <link href="http://example.com/%E6%97%B6%E9%97%B4%E9%94%81/"/>
+    <id>http://example.com/%E6%97%B6%E9%97%B4%E9%94%81/</id>
+    <published>2021-09-20T12:41:48.000Z</published>
+    <updated>2021-09-20T13:11:47.515Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一个反省"><a href="#一个反省" class="headerlink" title="一个反省"></a>一个反省</h1><p>把文搬上来后，又修了一遍，删了3k字。</p><span id="more"></span><p>主要原因是<strong>注水情节</strong>。</p><p>以前写注水情节想的很理想化，为了扩充单元剧自身的内容，<em>故意多写了几个场景，想让事情解决起来一波三折。</em></p><p>但扩充篇幅的目的性太明显，处理水平不足。</p><p>一波三折的处理过于散、场景事件之间联系过于微弱，注水嫌疑明显。</p><p>尤其是读到后文、即故事雏形里的核心部分，与前文对比尤其明显。</p><p><strong>有无信息量、有无剧情推进效果</strong>，高下立判。</p><p>得出的反省：</p><blockquote><p><strong>不要注水，有剧情有信息量才写，不要写散装剧情。</strong></p></blockquote><p>换言之，没填够信息量的剧情，值得砍掉。<br><br><br><br></p><h1 id="时间锁"><a href="#时间锁" class="headerlink" title="时间锁"></a>时间锁</h1><p>后文里黑水漫上来的部分，本质是<strong>“时间锁”</strong>，我个人觉得很有用，值得多加善用。</p><ul><li><p><strong>紧迫感、空间感、ddl</strong> ——剧情所需的东西<em>（起码是这篇题材所必需的东西）</em></p></li><li><p>划分了<strong>主要矛盾、次要矛盾</strong>——层次分明</p></li></ul><p>它迫使小主线更加突出，<strong>读来注意力不容易分散</strong>。内容联系更紧密，阅读黏性自然高。读者只需暂时紧追这一条“线索”，卸除掉一定的阅读负担，只需聚焦现下的关键事件。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一个反省&quot;&gt;&lt;a href=&quot;#一个反省&quot; class=&quot;headerlink&quot; title=&quot;一个反省&quot;&gt;&lt;/a&gt;一个反省&lt;/h1&gt;&lt;p&gt;把文搬上来后，又修了一遍，删了3k字。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>香水</title>
