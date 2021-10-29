@@ -392,7 +392,8 @@ button {
 }
 
 .article-entry blockquote, .article-entry p, .article-entry table {
-    margin: 1.5rem 0
+    margin: 1.5rem 0;
+    text-indent: 2em; /*首行缩进*/
 }
 
 .article-entry img, .article-entry video {
