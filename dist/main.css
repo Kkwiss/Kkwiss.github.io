@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
 @font-face {
@@ -1094,7 +1094,7 @@ button {
 }
 
 .article-header .article-title {
-    font-family: 'Long Cang', cursive;
+    font-family: 'Noto Serif SC', cursive;
     font-size: 34px;
     font-weight: 700;
     border-left: 4px solid #403e3e
